@@ -3,7 +3,7 @@
   "authors": [
     "Gustavo Delgado <gustavo.uach@gmail.com>"
   ],
-  "description": "Simple jquery-boostrap table",
+  "description": "Simple ajax grid table with paginator",
   "main": "gridcore.js",
   "moduleType": [],
   "keywords": [
