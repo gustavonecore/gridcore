@@ -184,7 +184,7 @@ GridCore.prototype = {
 	_getPaginatorContainerHtml: function()
 	{
 		var self = this;
-		self._paginatorContainerId = uuid();
+		self._paginatorContainerId = self.uuid();
 
 		var style = '';
 
@@ -206,9 +206,9 @@ GridCore.prototype = {
 	{
 		var self = this;
 
-		self._tableId = uuid();
-		self._theadId = uuid();
-		self._tbodyId = uuid();
+		self._tableId = self.uuid();
+		self._theadId = self.uuid();
+		self._tbodyId = self.uuid();
 
 		var table = '<table id="' + self._tableId + '" class="table table-striped table-hover gc-table" >';
 		table += '<thead id="' + self._theadId + '"></thead>';
