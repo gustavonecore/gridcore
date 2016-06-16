@@ -1,0 +1,30 @@
+{
+  "name": "gridcore",
+  "authors": [
+    "Gustavo Delgado <gustavo.uach@gmail.com>"
+  ],
+  "description": "Simple jquery-boostrap table",
+  "main": "gridcore.js",
+  "moduleType": [],
+  "keywords": [
+    "jquery",
+    "table",
+    "ajax",
+    "table",
+    "rest",
+    "jquery",
+    "table"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/gustavonecore/gridcore",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "restcore":"*"
+  }
+}
