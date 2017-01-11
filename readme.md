@@ -2,6 +2,9 @@ GRIDCORE - Simple Ajax grid table
 ===================
 This is a simple Jquery plugin for use an ajax paginated table of results
 Install using bower
+
+Author Gustavo Delgado R. gustavo.uach@gmail.com
+gustavonecore
 -------
 
     bower install gridcore
