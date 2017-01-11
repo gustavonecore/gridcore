@@ -1,6 +1,8 @@
 /*
 	Example os usage
 
+	Author Gustavo Delgado R: gustavonecore
+
 	grid = new GridCore({
 		columns:[
 			{name:'code', title:'OT'},
